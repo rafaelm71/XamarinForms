@@ -1,2 +1,2 @@
-#Aplicaciones Móviles Practica 1
+Aplicaciones Móviles Practica 1
 
